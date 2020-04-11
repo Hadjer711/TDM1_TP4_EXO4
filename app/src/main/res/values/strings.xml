@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP4_EXO4</string>
+    <string name="title_activity_seance_detail_activity">Seance_detail_activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
